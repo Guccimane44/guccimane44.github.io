@@ -1,0 +1,71 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Yan's Blog"
+theme = "PaperMod"
+ShowToc = true
+TacOpen = true
+
+[params.homeInfoParams]
+Title ="Hey, I'm Yan \U0001F44B"
+Content =  "Hey I'm a student majored in Computer Science and Mathmatics. Here I post some of my thoughts and notes."
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/Schroefelhof"
+
+#[[params.socialIcons]]
+#name = "github"
+#url = "https://github.com/guccimane44"
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 1
+
+[[menu.main]]
+identifier = "subjects"
+name = "Subjects"
+url = "/subjects/"
+weight = 2
+
+[[menu.main]]
+name = 'Math'
+pageRef = '/subjects/math'
+parent = 'Subjects'
+weight = 1
+
+[[menu.main]]
+name = 'Programming'
+pageRef = '/subjects/programming'
+parent = 'Subjects'
+weight = 2
+
+[[menu.main]]
+name = 'Thoughts'
+pageRef = '/subjects/thoughts'
+parent = 'Subjects'
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 4
+
+

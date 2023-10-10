@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/tags/analysis/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/posts/first-post/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/tags/proof/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/posts/second/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-10-10T16:32:30+02:00</lastmod>
+  </url><url>
+    <loc>/archives/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/search/</loc>
+  </url>
+</urlset>
