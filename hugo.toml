@@ -46,11 +46,11 @@ name = "Archives"
 url = "/archives/"
 weight = 2
 
-[[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
-weight = 3
+#[[menu.main]]
+#identifier = "categories"
+#name = "Categories"
+#url = "/categories/"
+#weight = 3
 
 [[menu.main]]
 identifier = "tags"

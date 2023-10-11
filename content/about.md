@@ -1,6 +1,6 @@
 ---
-title: "About"
+title: "About Me"
 url: "/about"
-summary: about
+summary: AboutMe
 ---
 Under Construction...
