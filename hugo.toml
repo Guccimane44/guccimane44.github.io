@@ -9,7 +9,7 @@ paginate =10
 
 [params.homeInfoParams]
 Title ="Hey, I'm Yan \U0001F44B"
-Content =  "Hey I'm a student majored in Computer Science and Mathmatics. Here I post some of my thoughts and notes."
+Content =  "Hey I'm a student majored in Computer Science and Mathematics. Here I post some of my thoughts and notes."
 
 [[params.socialIcons]]
 name = "twitter"
