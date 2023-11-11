@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Yan&#39;s Blog</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Yan&#39;s Blog</description>
+    <title>commentary on Yan&#39;s Blog</title>
+    <link>/tags/commentary/</link>
+    <description>Recent content in commentary on Yan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2023 23:36:36 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 23:36:36 +0200</lastBuildDate><atom:link href="/tags/commentary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>美国与以色列关系1949-1970 浅谈</title>
       <link>/posts/%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%B3%E7%B3%BB1949-1970/</link>
@@ -30,24 +30,6 @@
 六日战争之后阿拉伯国家普遍感觉被极大羞辱。约旦的巴勒斯坦抵抗势力掀起内战。巴勒斯坦势力意识到常规的战争已无可能战胜以色列。他们受当时苏联主导的革命运动意识形态影响，转而对平民发动恐怖袭击。这些行动受到了沙特以及之后的海湾国家的支持。美国对此没有及时采取措施，最终波及自身。 埃及在_1971_年向以色列伸出橄榄枝，但被以色列拒绝。以色列有了国际尤其是美国的特别支持后，在所有领域都超高速发展，在战略上也愈加放肆。以色列的领土扩张主义从此成了主流势力。以色列战后直接非法占领西奈半岛。之后埃及渐渐转而与以色列交好，以重新换取西奈半岛的控制权。这种投敌行为使得埃及从此成了恐怖袭击的头号目标。埃及从此一蹶不振。失去了进步的埃及的辐射，再加上伊朗70年代保守伊斯兰势力的革命。中东从此陷入了以宗教与极端势力主导的时代。也是我们现在熟悉的中东的前身。
 结语 许多地缘政治问题就好像两辆相向而行，注定要碰撞的列车。中文世界老生常谈的修昔底德陷阱也是这样例子。斯巴达其实本意并不想与雅典发生冲突。但因为安全困境（Security Dilemma）的问题，两者冲突不可避免。很多人喜欢把巴以问题，以及美国在其中扮演的角色过度简单和抽象化了。 当今巴以问题的困境是，两边都处在一个意识形态的斗争上，对这个问题的本身成因以及整个历史脉络却缺乏认识。其实从大的方向来说，这也是整个世界陷入困境的原因之一。
 “因为我们这样做了，所以我们需要去证明我们是对的。” 当今世界建立在现代以及二战后形成的秩序之下，但因为教育的误导以及缺失，普罗大众仅仅熟悉当今秩序的结果，却不了解其成因。 顺便说几句个人立场：以色列的锡安主义与哈马斯代表的极端伊斯兰主义，都不符合当今世界的价值观。此外，在以色列人已经在这片土地生活了好几代人的前提下，驱逐以色列人也是不可能的，因此巴勒斯坦也必须放弃这个从一开始就坚持的宣称。最后，内塔尼亚胡及其极右势力必须被遏制，尽管短期来看可能还没那么轻松。若伊朗政局能在未来发生反转，以色列于美国的特殊关系或许也会迎来拐点，这也会彻底改变中东的局面。</description>
-    </item>
-    
-    <item>
-      <title>first-post</title>
-      <link>/posts/first-post/</link>
-      <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
-      
-      <guid>/posts/first-post/</guid>
-      <description>haha Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>/posts/second/</link>
-      <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
-      
-      <guid>/posts/second/</guid>
-      <description>haha</description>
     </item>
     
   </channel>

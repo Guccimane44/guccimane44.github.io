@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Yan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 16:32:30 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 23:36:36 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>commentary</title>
+      <link>/tags/commentary/</link>
+      <pubDate>Sat, 11 Nov 2023 23:36:36 +0200</pubDate>
+      
+      <guid>/tags/commentary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>/tags/history/</link>
+      <pubDate>Sat, 11 Nov 2023 23:36:36 +0200</pubDate>
+      
+      <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>/tags/politics/</link>
+      <pubDate>Sat, 11 Nov 2023 23:36:36 +0200</pubDate>
+      
+      <guid>/tags/politics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>analysis</title>
       <link>/tags/analysis/</link>
@@ -17,11 +44,29 @@
     </item>
     
     <item>
+      <title>linear algebra</title>
+      <link>/tags/linear-algebra/</link>
+      <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
+      
+      <guid>/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>proof</title>
       <link>/tags/proof/</link>
       <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
       
       <guid>/tags/proof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
+      
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
