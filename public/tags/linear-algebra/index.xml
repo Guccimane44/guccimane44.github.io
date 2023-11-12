@@ -6,14 +6,16 @@
     <description>Recent content in linear algebra on Yan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 16:32:30 +0200</lastBuildDate><atom:link href="/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 08:03:50 +0100</lastBuildDate><atom:link href="/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
-      <link>/posts/second/</link>
-      <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
+      <title>From Adjoint Operator to Singular Value Decomposition</title>
+      <link>/posts/from_adjoint_to_svd/</link>
+      <pubDate>Wed, 18 Oct 2023 08:03:50 +0100</pubDate>
       
-      <guid>/posts/second/</guid>
-      <description>haha</description>
+      <guid>/posts/from_adjoint_to_svd/</guid>
+      <description>Isometry A linear map is isometry if it perserves norms.
+interesting properties: Isometry $\ S$ times its adjoint $S^{* }$ equal identity $I$ $$S^{*}S = I$$ Orthonormal basis will be staying orthonormal to each others $$Se_1, &amp;hellip; , Se_n$$ Unitary Operators An operator $S \in \mathcal L (V)$ is called unitary if is an invertible isometry
+interesting properties: Isometry $S$ times its adjoint $S^{* }$ equal identity $I $, and it has communitativity $$S^{* }S = SS^{* } = I $$ $S$ is invertible and $S^{-1}=S^{*}$ $S$ is a unitary operator $\iff$ $\ S^{* }$ is a unitary operator Suppose $\lambda$ is an eigenvalue of a unitary operator.</description>
     </item>
     
   </channel>

@@ -34,21 +34,23 @@
     </item>
     
     <item>
+      <title>From Adjoint Operator to Singular Value Decomposition</title>
+      <link>/posts/from_adjoint_to_svd/</link>
+      <pubDate>Wed, 18 Oct 2023 08:03:50 +0100</pubDate>
+      
+      <guid>/posts/from_adjoint_to_svd/</guid>
+      <description>Isometry A linear map is isometry if it perserves norms.
+interesting properties: Isometry $\ S$ times its adjoint $S^{* }$ equal identity $I$ $$S^{*}S = I$$ Orthonormal basis will be staying orthonormal to each others $$Se_1, &amp;hellip; , Se_n$$ Unitary Operators An operator $S \in \mathcal L (V)$ is called unitary if is an invertible isometry
+interesting properties: Isometry $S$ times its adjoint $S^{* }$ equal identity $I $, and it has communitativity $$S^{* }S = SS^{* } = I $$ $S$ is invertible and $S^{-1}=S^{*}$ $S$ is a unitary operator $\iff$ $\ S^{* }$ is a unitary operator Suppose $\lambda$ is an eigenvalue of a unitary operator.</description>
+    </item>
+    
+    <item>
       <title>first-post</title>
       <link>/posts/first-post/</link>
       <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
       
       <guid>/posts/first-post/</guid>
-      <description>haha Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>/posts/second/</link>
-      <pubDate>Tue, 10 Oct 2023 16:32:30 +0200</pubDate>
-      
-      <guid>/posts/second/</guid>
-      <description>haha</description>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
   </channel>

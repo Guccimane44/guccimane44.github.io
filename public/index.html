@@ -29,7 +29,26 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Yan&#39;s Blog" />
+</noscript>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css" integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY" crossorigin="anonymous"></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
+>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+        delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "$", right: "$", display: false}
+        ]
+    });
+});
+</script>
+<meta property="og:title" content="Yan&#39;s Blog" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/" />
@@ -179,26 +198,28 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>first-post
+    <h2>From Adjoint Operator to Singular Value Decomposition
     </h2>
   </header>
   <div class="entry-content">
-    <p>haha Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua....</p>
+    <p>Isometry A linear map is isometry if it perserves norms.
+interesting properties: Isometry $\ S$ times its adjoint $S^{* }$ equal identity $I$ $$S^{*}S = I$$ Orthonormal basis will be staying orthonormal to each others $$Se_1, … , Se_n$$ Unitary Operators An operator $S \in \mathcal L (V)$ is called unitary if is an invertible isometry
+interesting properties: Isometry $S$ times its adjoint $S^{* }$ equal identity $I $, and it has communitativity $$S^{* }S = SS^{* } = I $$ $S$ is invertible and $S^{-1}=S^{*}$ $S$ is a unitary operator $\iff$ $\ S^{* }$ is a unitary operator Suppose $\lambda$ is an eigenvalue of a unitary operator....</p>
   </div>
-  <footer class="entry-footer"><span title='2023-10-10 16:32:30 +0200 CEST'>October 10, 2023</span></footer>
-  <a class="entry-link" aria-label="post link to first-post" href="/posts/first-post/"></a>
+  <footer class="entry-footer"><span title='2023-10-18 08:03:50 +0100 +0100'>October 18, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to From Adjoint Operator to Singular Value Decomposition" href="/posts/from_adjoint_to_svd/"></a>
 </article>
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Second
+    <h2>first-post
     </h2>
   </header>
   <div class="entry-content">
-    <p>haha</p>
+    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua....</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-10 16:32:30 +0200 CEST'>October 10, 2023</span></footer>
-  <a class="entry-link" aria-label="post link to Second" href="/posts/second/"></a>
+  <a class="entry-link" aria-label="post link to first-post" href="/posts/first-post/"></a>
 </article>
     </main>
     

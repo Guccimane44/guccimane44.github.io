@@ -29,6 +29,7 @@ ShowReadingTime = false
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowShareButtons = true
+math = true
 #DisableScrollToTop = False
 #hideFooter = False
 
