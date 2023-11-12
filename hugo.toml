@@ -25,9 +25,10 @@ url = "https://www.instagram.com/yam8.rd"
 
 [params]
 defaultTheme = "dark"
-ShowReadingTime = true
+ShowReadingTime = false
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+ShowShareButtons = true
 #DisableScrollToTop = False
 #hideFooter = False
 
