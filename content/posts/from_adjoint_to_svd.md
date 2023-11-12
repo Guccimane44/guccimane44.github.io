@@ -38,7 +38,7 @@ for every $u\in V$
 
 
 # Lets sort out these intertwining terminologies
-* Math is like any other subjects, it started with intuition. However the deeper you dept, more unintuitive, weird, ugly facts will come out. When you learn enough about those ugly things, you will start to build a intuition around it. Then you will start the next round of digging. I think one probably would agree that a regular matrix is more interesting than a singular matrix, or 0 is more interesting than ... lets say $1729$. Or {A WEIRD LOOKING UNITARY MATRIX} 
+* Math is like any other subjects, it started with intuition. However the deeper you dug, more unintuitive, weird, ugly facts will come out. When you learn enough about those ugly things, you will start to build a intuition around it. Then you will start the next round of digging. I think one probably would agree that a regular matrix is more interesting than a singular matrix, or 0 is more interesting than ... lets say $1729$. Or {A WEIRD LOOKING UNITARY MATRIX} 
 * Operators are endomorphic linear mapping.
 * Adjoint operator is the generalization of symmetric matrics and hermitian matrics. Because of the arthmitics differences between the real and complex space, hermitian matrics are __"the symmetric matrics we want in complex space"__.
 * Now we are becoming more greedy in adjoint matrices. Only symmetry coundnt satisfy us. Our attention has drawn by self-adjoint operators, they are the adjoint operators with co 
